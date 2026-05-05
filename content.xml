@@ -1,0 +1,850 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260505193327XEP84R</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260505193327D8S7K2</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>¡Llamamos al 112! – Descripción de la SdA</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778002067651</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mosw8o4i-96ff5cvh5</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Intención Educativa</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Intención Educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Intención Educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Intención Educativa</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosw8o4i-96ff5cvh5</odePageId>
+      <odeBlockId>block-1775389611399-a1r623cmw</odeBlockId>
+      <blockName>Descripción de la Situación de Aprendizaje</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosw8o4i-96ff5cvh5</odePageId>
+          <odeBlockId>block-1775389611399-a1r623cmw</odeBlockId>
+          <odeIdeviceId>idevice-1775389611396-2b7jdiy1q</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>"¡Llamamos al 112!" </strong>surge de la necesidad de trabajar desde edades tempranas la educación para la seguridad y la prevención de riesgos, un ámbito directamente vinculado al desarrollo personal y social del alumnado de Educación Infantil. El número de emergencias 112 es un contenido de alto valor vital: conocerlo y saber cuándo y cómo usarlo puede marcar una diferencia real en la vida de los niños, niñas y sus familias.</p>
+<p>La SdA aprovecha la atracción natural que los niños y niñas de 4 años sienten por las sirenas, los vehículos de emergencias y las profesiones de ayuda, convirtiendo ese interés en el motor de un aprendizaje significativo, globalizado y competencial. A través del juego dramático, la producción digital y el trabajo cooperativo, el alumnado construye conocimiento de forma activa y lo comunica mediante formatos multimodales (infografía y podcast).</p>
+<p><strong>Impacto esperado</strong>: Se espera que el alumnado sea capaz de identificar situaciones de emergencia, conocer el número 112 y los principales servicios asociados, y comprender que en esas situaciones hay personas preparadas para ayudar. Además, la difusión del podcast y la infografía en el blog de aula permite que las familias participen del aprendizaje y refuercen estos contenidos en el hogar, ampliando el impacto más allá del aula.</p>
+<p><strong>Relación con los ODS y Retos del siglo XXI</strong></p>
+<p><strong>ODS 3 – Salud y bienestar: </strong>se trabaja la prevención de riesgos y la respuesta ante emergencias como parte de una vida segura y saludable.<br /><strong>ODS 4 – Educación de calidad:</strong> se promueve una educación inclusiva, equitativa y de calidad desde las primeras etapas, con metodologías activas y uso de tecnología.<br /><strong>ODS 16 – Paz, justicia e instituciones sólidas:</strong> se fomenta el conocimiento de los servicios públicos y el valor de quienes trabajan por la seguridad colectiva.<br /><strong>Retos del siglo XXI: </strong>competencia digital, comunicación multimodal, pensamiento crítico, ciudadanía activa y responsable, y aprendizaje cooperativo.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775389611396-2b7jdiy1q","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>\"¡Llamamos al 112!\" </strong>surge de la necesidad de trabajar desde edades tempranas la educación para la seguridad y la prevención de riesgos, un ámbito directamente vinculado al desarrollo personal y social del alumnado de Educación Infantil. El número de emergencias 112 es un contenido de alto valor vital: conocerlo y saber cuándo y cómo usarlo puede marcar una diferencia real en la vida de los niños, niñas y sus familias.</p>\n<p>La SdA aprovecha la atracción natural que los niños y niñas de 4 años sienten por las sirenas, los vehículos de emergencias y las profesiones de ayuda, convirtiendo ese interés en el motor de un aprendizaje significativo, globalizado y competencial. A través del juego dramático, la producción digital y el trabajo cooperativo, el alumnado construye conocimiento de forma activa y lo comunica mediante formatos multimodales (infografía y podcast).</p>\n<p><strong>Impacto esperado</strong>: Se espera que el alumnado sea capaz de identificar situaciones de emergencia, conocer el número 112 y los principales servicios asociados, y comprender que en esas situaciones hay personas preparadas para ayudar. Además, la difusión del podcast y la infografía en el blog de aula permite que las familias participen del aprendizaje y refuercen estos contenidos en el hogar, ampliando el impacto más allá del aula.</p>\n<p><strong>Relación con los ODS y Retos del siglo XXI</strong></p>\n<p><strong>ODS 3 – Salud y bienestar: </strong>se trabaja la prevención de riesgos y la respuesta ante emergencias como parte de una vida segura y saludable.<br /><strong>ODS 4 – Educación de calidad:</strong> se promueve una educación inclusiva, equitativa y de calidad desde las primeras etapas, con metodologías activas y uso de tecnología.<br /><strong>ODS 16 – Paz, justicia e instituciones sólidas:</strong> se fomenta el conocimiento de los servicios públicos y el valor de quienes trabajan por la seguridad colectiva.<br /><strong>Retos del siglo XXI: </strong>competencia digital, comunicación multimodal, pensamiento crítico, ciudadanía activa y responsable, y aprendizaje cooperativo.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mosw8o4v-9mtpi7vbp</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Elementos Curriculares</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Elementos Curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Elementos Curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosw8o4v-9mtpi7vbp</odePageId>
+      <odeBlockId>block-1775397018061-8rgt7zyw5</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosw8o4v-9mtpi7vbp</odePageId>
+          <odeBlockId>block-1775397018061-8rgt7zyw5</odeBlockId>
+          <odeIdeviceId>idevice-1775397018057-42awzhu9z</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Competencias clave y descriptores operativos</strong></p>
+<table border="1" style="width: 100.056%;">
+<tbody>
+<tr>
+<td style="width: 49.9726%; text-align: justify;"><strong>Competencia clave</strong></td>
+<td style="width: 49.9726%; text-align: justify;"><strong>Descriptor operativo</strong></td>
+</tr>
+<tr>
+<td style="width: 49.9726%; text-align: justify;">Competencia en comunicación lingüística (CCL)</td>
+<td style="width: 49.9726%; text-align: justify;">CCL1 – Se expresa oralmente con progresiva corrección, riqueza léxica e intención comunicativa en situaciones cotidianas y de aprendizaje<br />Competencia digital (CD)</td>
+</tr>
+<tr>
+<td style="width: 49.9726%; text-align: justify;">Competencia digital (CD)</td>
+<td style="width: 49.9726%; text-align: justify;">CD1 – Utiliza de forma guiada herramientas digitales sencillas para buscar información, crear contenidos y comunicarse</td>
+</tr>
+<tr>
+<td style="width: 49.9726%; text-align: justify;">Competencia personal, social y de aprender a aprender (CPSAA)</td>
+<td style="width: 49.9726%; text-align: justify;">CPSAA1 – Participa en situaciones de aprendizaje cooperativo mostrando respeto, empatía e interés por las aportaciones de los demás<br />Competencia ciudadana (CC)</td>
+</tr>
+<tr>
+<td style="width: 49.9726%; text-align: justify;">Competencia ciudadana (CC)</td>
+<td style="width: 49.9726%; text-align: justify;">CC2 – Reconoce algunos servicios públicos y su función social, valorando la importancia de las personas que trabajan por el bienestar colectivo<br />Competencia en conciencia y expresión culturales (CCEC)</td>
+</tr>
+<tr>
+<td style="width: 49.9726%; text-align: justify;">Competencia en conciencia y expresión culturales (CCEC)</td>
+<td style="width: 49.9726%; text-align: justify;">CCEC4 – Elabora producciones plásticas, orales y audiovisuales sencillas con intención comunicativa y estética</td>
+</tr>
+</tbody>
+</table>
+<p><br /></p>
+<p style="text-align: justify;"><strong>Competencias específicas</strong></p>
+<ul style="text-align: justify;">
+<li><strong>CE1 (Área 1 – Crecimiento en armonía)</strong>: Participar en actividades grupales respetando las normas de convivencia, mostrando empatía y colaborando con los iguales en la resolución de tareas comunes, gestionando progresivamente las propias emociones.</li>
+<li><strong>CE3 (Área 2 – Descubrimiento y exploración del entorno)</strong>: Explorar de forma curiosa el entorno natural y social próximo, identificando algunas características de los servicios comunitarios y estableciendo relaciones entre las situaciones de emergencia y las personas que las atienden.</li>
+<li><strong>CE4 (Área 2 – Descubrimiento y exploración del entorno): </strong>Iniciarse en el uso responsable y creativo de herramientas digitales para explorar, crear y comunicar, con el acompañamiento de la docente.</li>
+<li><strong>CE5 (Área 3 – Comunicación y representación):</strong> Expresar y comunicar vivencias, emociones e ideas mediante diferentes lenguajes (verbal, plástico, audiovisual y digital), mostrando progresiva intencionalidad comunicativa y disfrutando del proceso creativo.</li>
+</ul>
+<p style="text-align: justify;"><br /><strong>Saberes básicos integrados</strong></p>
+<p style="text-align: justify;">Área 1 – Crecimiento en armonía:</p>
+<ul style="text-align: justify;">
+<li>El trabajo cooperativo: roles en el grupo, turnos y escucha activa.</li>
+<li>Reconocimiento y expresión de emociones ante situaciones de peligro o miedo.</li>
+<li>Hábitos de seguridad personal: situaciones de riesgo y pautas de actuación básicas.</li>
+</ul>
+<p style="text-align: justify;">Área 2 – Descubrimiento y exploración del entorno:</p>
+<ul style="text-align: justify;">
+<li>El 112: qué es, para qué sirve y cuándo se llama.</li>
+<li>Los servicios de emergencias: bomberos, ambulancia/sanitarios, policía y salvamento.</li>
+<li>Las profesiones de ayuda: funciones, uniformes y vehículos.</li>
+<li>Primeras aproximaciones al uso de herramientas digitales para explorar el entorno.<br /><br /></li>
+</ul>
+<p style="text-align: justify;">Área 3 – Comunicación y representación:</p>
+<ul style="text-align: justify;">
+<li>Lenguaje oral: vocabulario específico de emergencias, exposición oral sencilla, el podcast como formato comunicativo.</li>
+<li>Lenguaje plástico y visual: la infografía como herramienta de comunicación multimodal.</li>
+<li>Lenguaje audiovisual y digital: uso guiado de Genially y GarageBand/Audacity.</li>
+<li>El juego dramático y el role-play como formas de representación de la realidad.</li>
+</ul>
+<p style="text-align: justify;"><br /><strong>Criterios de evaluación</strong></p>
+<table border="1" style="width: 100.056%;">
+<tbody>
+<tr>
+<td style="width: 49.9154%; text-align: justify;"><strong>Competencia específica</strong></td>
+<td style="width: 49.9154%; text-align: justify;"><strong>Criterio de evaluación</strong></td>
+</tr>
+<tr>
+<td style="width: 49.9154%;">CE1<br /></td>
+<td style="width: 49.9154%;">1.1 Participa activamente en las tareas grupales, respetando los turnos y valorando las aportaciones de los compañeros/as.</td>
+</tr>
+<tr>
+<td style="width: 49.9154%;">CE1</td>
+<td style="width: 49.9154%;">1.2 Identifica situaciones cotidianas de riesgo y verbaliza pautas básicas de actuación.</td>
+</tr>
+<tr>
+<td style="width: 49.9154%;">CE3</td>
+<td style="width: 49.9154%;">3.1 Identifica el 112 como número de emergencias y nombra al menos tres servicios asociados.</td>
+</tr>
+<tr>
+<td style="width: 49.9154%;">CE3</td>
+<td style="width: 49.9154%;">3.2 Diferencia situaciones de emergencia de situaciones cotidianas no urgentes.</td>
+</tr>
+<tr>
+<td style="width: 49.9154%;">CE4</td>
+<td style="width: 49.9154%;">4.1 Utiliza de forma guiada herramientas digitales (Genially, GarageBand) para crear y compartir producciones sencillas.</td>
+</tr>
+<tr>
+<td style="width: 49.9154%;">CE5</td>
+<td style="width: 49.9154%;">5.1 Elabora, con apoyo docente, una infografía interactiva que comunica información sobre los servicios de emergencias.</td>
+</tr>
+<tr>
+<td style="width: 49.9154%;">CE5</td>
+<td style="width: 49.9154%;">5.2 Participa en la grabación de un podcast expresándose oralmente con claridad e intención comunicativa.</td>
+</tr>
+<tr>
+<td style="width: 49.9154%;">CE5</td>
+<td style="width: 49.9154%;">5.3 Representa mediante el dibujo y la expresión oral su visión de los profesionales de emergencias.</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: justify;"><br /><br /><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775397018057-42awzhu9z","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Competencias clave y descriptores operativos</strong></p>\n<table border=\"1\" style=\"width: 100.056%;\">\n<tbody>\n<tr>\n<td style=\"width: 49.9726%; text-align: justify;\"><strong>Competencia clave</strong></td>\n<td style=\"width: 49.9726%; text-align: justify;\"><strong>Descriptor operativo</strong></td>\n</tr>\n<tr>\n<td style=\"width: 49.9726%; text-align: justify;\">Competencia en comunicación lingüística (CCL)</td>\n<td style=\"width: 49.9726%; text-align: justify;\">CCL1 – Se expresa oralmente con progresiva corrección, riqueza léxica e intención comunicativa en situaciones cotidianas y de aprendizaje<br />Competencia digital (CD)</td>\n</tr>\n<tr>\n<td style=\"width: 49.9726%; text-align: justify;\">Competencia digital (CD)</td>\n<td style=\"width: 49.9726%; text-align: justify;\">CD1 – Utiliza de forma guiada herramientas digitales sencillas para buscar información, crear contenidos y comunicarse</td>\n</tr>\n<tr>\n<td style=\"width: 49.9726%; text-align: justify;\">Competencia personal, social y de aprender a aprender (CPSAA)</td>\n<td style=\"width: 49.9726%; text-align: justify;\">CPSAA1 – Participa en situaciones de aprendizaje cooperativo mostrando respeto, empatía e interés por las aportaciones de los demás<br />Competencia ciudadana (CC)</td>\n</tr>\n<tr>\n<td style=\"width: 49.9726%; text-align: justify;\">Competencia ciudadana (CC)</td>\n<td style=\"width: 49.9726%; text-align: justify;\">CC2 – Reconoce algunos servicios públicos y su función social, valorando la importancia de las personas que trabajan por el bienestar colectivo<br />Competencia en conciencia y expresión culturales (CCEC)</td>\n</tr>\n<tr>\n<td style=\"width: 49.9726%; text-align: justify;\">Competencia en conciencia y expresión culturales (CCEC)</td>\n<td style=\"width: 49.9726%; text-align: justify;\">CCEC4 – Elabora producciones plásticas, orales y audiovisuales sencillas con intención comunicativa y estética</td>\n</tr>\n</tbody>\n</table>\n<p><br /></p>\n<p style=\"text-align: justify;\"><strong>Competencias específicas</strong></p>\n<ul style=\"text-align: justify;\">\n<li><strong>CE1 (Área 1 – Crecimiento en armonía)</strong>: Participar en actividades grupales respetando las normas de convivencia, mostrando empatía y colaborando con los iguales en la resolución de tareas comunes, gestionando progresivamente las propias emociones.</li>\n<li><strong>CE3 (Área 2 – Descubrimiento y exploración del entorno)</strong>: Explorar de forma curiosa el entorno natural y social próximo, identificando algunas características de los servicios comunitarios y estableciendo relaciones entre las situaciones de emergencia y las personas que las atienden.</li>\n<li><strong>CE4 (Área 2 – Descubrimiento y exploración del entorno): </strong>Iniciarse en el uso responsable y creativo de herramientas digitales para explorar, crear y comunicar, con el acompañamiento de la docente.</li>\n<li><strong>CE5 (Área 3 – Comunicación y representación):</strong> Expresar y comunicar vivencias, emociones e ideas mediante diferentes lenguajes (verbal, plástico, audiovisual y digital), mostrando progresiva intencionalidad comunicativa y disfrutando del proceso creativo.</li>\n</ul>\n<p style=\"text-align: justify;\"><br /><strong>Saberes básicos integrados</strong></p>\n<p style=\"text-align: justify;\">Área 1 – Crecimiento en armonía:</p>\n<ul style=\"text-align: justify;\">\n<li>El trabajo cooperativo: roles en el grupo, turnos y escucha activa.</li>\n<li>Reconocimiento y expresión de emociones ante situaciones de peligro o miedo.</li>\n<li>Hábitos de seguridad personal: situaciones de riesgo y pautas de actuación básicas.</li>\n</ul>\n<p style=\"text-align: justify;\">Área 2 – Descubrimiento y exploración del entorno:</p>\n<ul style=\"text-align: justify;\">\n<li>El 112: qué es, para qué sirve y cuándo se llama.</li>\n<li>Los servicios de emergencias: bomberos, ambulancia/sanitarios, policía y salvamento.</li>\n<li>Las profesiones de ayuda: funciones, uniformes y vehículos.</li>\n<li>Primeras aproximaciones al uso de herramientas digitales para explorar el entorno.<br /><br /></li>\n</ul>\n<p style=\"text-align: justify;\">Área 3 – Comunicación y representación:</p>\n<ul style=\"text-align: justify;\">\n<li>Lenguaje oral: vocabulario específico de emergencias, exposición oral sencilla, el podcast como formato comunicativo.</li>\n<li>Lenguaje plástico y visual: la infografía como herramienta de comunicación multimodal.</li>\n<li>Lenguaje audiovisual y digital: uso guiado de Genially y GarageBand/Audacity.</li>\n<li>El juego dramático y el role-play como formas de representación de la realidad.</li>\n</ul>\n<p style=\"text-align: justify;\"><br /><strong>Criterios de evaluación</strong></p>\n<table border=\"1\" style=\"width: 100.056%;\">\n<tbody>\n<tr>\n<td style=\"width: 49.9154%; text-align: justify;\"><strong>Competencia específica</strong></td>\n<td style=\"width: 49.9154%; text-align: justify;\"><strong>Criterio de evaluación</strong></td>\n</tr>\n<tr>\n<td style=\"width: 49.9154%;\">CE1<br /></td>\n<td style=\"width: 49.9154%;\">1.1 Participa activamente en las tareas grupales, respetando los turnos y valorando las aportaciones de los compañeros/as.</td>\n</tr>\n<tr>\n<td style=\"width: 49.9154%;\">CE1</td>\n<td style=\"width: 49.9154%;\">1.2 Identifica situaciones cotidianas de riesgo y verbaliza pautas básicas de actuación.</td>\n</tr>\n<tr>\n<td style=\"width: 49.9154%;\">CE3</td>\n<td style=\"width: 49.9154%;\">3.1 Identifica el 112 como número de emergencias y nombra al menos tres servicios asociados.</td>\n</tr>\n<tr>\n<td style=\"width: 49.9154%;\">CE3</td>\n<td style=\"width: 49.9154%;\">3.2 Diferencia situaciones de emergencia de situaciones cotidianas no urgentes.</td>\n</tr>\n<tr>\n<td style=\"width: 49.9154%;\">CE4</td>\n<td style=\"width: 49.9154%;\">4.1 Utiliza de forma guiada herramientas digitales (Genially, GarageBand) para crear y compartir producciones sencillas.</td>\n</tr>\n<tr>\n<td style=\"width: 49.9154%;\">CE5</td>\n<td style=\"width: 49.9154%;\">5.1 Elabora, con apoyo docente, una infografía interactiva que comunica información sobre los servicios de emergencias.</td>\n</tr>\n<tr>\n<td style=\"width: 49.9154%;\">CE5</td>\n<td style=\"width: 49.9154%;\">5.2 Participa en la grabación de un podcast expresándose oralmente con claridad e intención comunicativa.</td>\n</tr>\n<tr>\n<td style=\"width: 49.9154%;\">CE5</td>\n<td style=\"width: 49.9154%;\">5.3 Representa mediante el dibujo y la expresión oral su visión de los profesionales de emergencias.</td>\n</tr>\n</tbody>\n</table>\n<p style=\"text-align: justify;\"><br /><br /><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mosw8o4x-yf9aobpsb</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Metodologías Activas</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Metodologías Activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Metodologías Activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosw8o4x-yf9aobpsb</odePageId>
+      <odeBlockId>block-1775397817577-gejkptt3a</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosw8o4x-yf9aobpsb</odePageId>
+          <odeBlockId>block-1775397817577-gejkptt3a</odeBlockId>
+          <odeIdeviceId>idevice-1775397817571-gpjtcvkpf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta SdA se combinan las siguientes metodologías activas, en coherencia con los principios del DUA y el enfoque competencial del currículo de Infantil:</p>
+<p><strong>Aprendizaje Basado en Proyectos (ABP): t</strong>oda la SdA se articula en torno a una pregunta motriz: "¿Qué hacemos cuando hay una emergencia?". El alumnado investiga, crea y comunica sus aprendizajes a través de productos reales (infografía interactiva y podcast), dotando de sentido y funcionalidad a todo el proceso.</p>
+<p><strong>Aprendizaje Cooperativo: </strong>se utilizan estructuras cooperativas adaptadas a Educación Infantil: trabajo en grupos heterogéneos con roles rotativos (portavoz, encargado de materiales, ayudante digital, comprobador). Cada miembro del grupo tiene una función real e imprescindible para el producto final.</p>
+<p><strong>Aprendizaje a través del juego (Gamificación y juego dramático): </strong>el role-play de la llamada al 112 (sesión 4) permite al alumnado vivenciar de forma segura y lúdica una situación de emergencia. Se incorporan elementos de gamificación: insignias de "Agente del 112" que el alumnado recibe al superar cada fase de la SdA.</p>
+<p><strong>Aprendizaje con tecnología (DigComp): </strong>el uso de herramientas digitales (Genially, GarageBand) no es un fin en sí mismo, sino un medio para comunicar aprendizajes. Se trabaja la competencia digital desde una perspectiva creativa, crítica y responsable, adaptada a la etapa.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775397817571-gpjtcvkpf","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta SdA se combinan las siguientes metodologías activas, en coherencia con los principios del DUA y el enfoque competencial del currículo de Infantil:</p>\n<p><strong>Aprendizaje Basado en Proyectos (ABP): t</strong>oda la SdA se articula en torno a una pregunta motriz: \"¿Qué hacemos cuando hay una emergencia?\". El alumnado investiga, crea y comunica sus aprendizajes a través de productos reales (infografía interactiva y podcast), dotando de sentido y funcionalidad a todo el proceso.</p>\n<p><strong>Aprendizaje Cooperativo: </strong>se utilizan estructuras cooperativas adaptadas a Educación Infantil: trabajo en grupos heterogéneos con roles rotativos (portavoz, encargado de materiales, ayudante digital, comprobador). Cada miembro del grupo tiene una función real e imprescindible para el producto final.</p>\n<p><strong>Aprendizaje a través del juego (Gamificación y juego dramático): </strong>el role-play de la llamada al 112 (sesión 4) permite al alumnado vivenciar de forma segura y lúdica una situación de emergencia. Se incorporan elementos de gamificación: insignias de \"Agente del 112\" que el alumnado recibe al superar cada fase de la SdA.</p>\n<p><strong>Aprendizaje con tecnología (DigComp): </strong>el uso de herramientas digitales (Genially, GarageBand) no es un fin en sí mismo, sino un medio para comunicar aprendizajes. Se trabaja la competencia digital desde una perspectiva creativa, crítica y responsable, adaptada a la etapa.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mosw8o4z-qz4lc3luk</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Vinculación con proyectos y programas del centro</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Vinculación con proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Vinculación con proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosw8o4z-qz4lc3luk</odePageId>
+      <odeBlockId>block-1775398808769-6j2xcnocg</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosw8o4z-qz4lc3luk</odePageId>
+          <odeBlockId>block-1775398808769-6j2xcnocg</odeBlockId>
+          <odeIdeviceId>idevice-1775398808766-66cdj8ey1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Plan Integral de Convivencia (PIC) y Plan de Mediación:</strong> la SdA "¡Llamamos al 112!" refuerza directamente los objetivos del Plan Integral de Convivencia del centro, al trabajar el valor de la ayuda mutua, el respeto y la seguridad colectiva. El conocimiento de los servicios de emergencias conecta con las actuaciones del Plan de Mediación, ya que el alumnado aprende que hay personas y recursos a los que acudir cuando surgen situaciones de dificultad, en paralelo al trabajo de mediación que se desarrolla en las tutorías a través del programa NINO y NINA.</p>
+<p><strong>Plan de Atención a la Diversidad (PAD) — Programa de Atención a la Diversidad:</strong> el diseño de la SdA desde los principios del Diseño Universal para el Aprendizaje (DUA) —recogidos expresamente en la PGA del centro— garantiza la participación de todo el alumnado, incluido el ACNEE/ACNEAE. Los múltiples agrupamientos, los apoyos visuales, la expresión oral y la producción digital ofrecen diversas vías de acceso y expresión del aprendizaje, en coherencia con las medidas de atención a la diversidad establecidas en el centro.</p>
+<p><strong>Programa de Acción Tutorial (PAT):</strong> esta SdA se vincula con el PAT en el trabajo de las competencias socioemocionales (reconocimiento de emociones ante situaciones de peligro o miedo) y con el fomento de hábitos saludables y de seguridad personal, contemplados entre las actuaciones específicas del PAT para Educación Infantil. El rol de los profesionales de emergencias como figuras de ayuda conecta con los valores de solidaridad y cuidado trabajados en tutoría.</p>
+<p><strong>Plan Digital de Centro — Proyecto Chromebook y Google for Education</strong>: la SdA contribuye directamente al objetivo 5 de la PGA: desarrollar las competencias digitales del alumnado desde las primeras etapas. El uso guiado de herramientas como Genially y GarageBand/Audacity está alineado con el Proyecto Chromebook y con el ecosistema Google for Education implantado en el centro. Se trabaja así el uso responsable, creativo y seguro de la tecnología, en coherencia con el Plan de Digitalización del Centro.</p>
+<p><strong>Programa de Innovación — Matemáticas Activas, Aprendizaje Cooperativo y ABP</strong>: la metodología de la SdA se apoya en tres de los programas de innovación educativa recogidos en la PGA (punto 9): el Aprendizaje Basado en Proyectos, el Aprendizaje Cooperativo con roles heterogéneos y la metodología de Matemáticas Activas aplicada en Educación Infantil, que sitúa al alumnado como protagonista de su aprendizaje a través del juego, la manipulación y la verbalización.</p>
+<p><strong>Programa HabLE — Bilingüismo:</strong> aunque el Programa HabLE se desarrolla principalmente a partir de Educación Primaria, en Educación Infantil se trabaja desde los primeros cursos el contacto con la lengua inglesa. La SdA puede incorporar vocabulario básico en inglés relacionado con las emergencias (nombres de los servicios, palabras clave como help, ambulance, firefighter, police), en coherencia con el enfoque comunicativo y de inmersión temprana del Programa HabLE.</p>
+<p><strong>Plan de Coeducación y vocaciones STEAM:</strong> la SdA contribuye al objetivo 4 de la PGA, que promueve la igualdad de oportunidades y las vocaciones STEAM. Se presentan los profesionales de emergencias de forma igualitaria, mostrando a mujeres y hombres en todos los roles (bomberas, médicas, policías). La elaboración de la infografía interactiva y el podcast fomenta además el interés por la tecnología desde edades tempranas en todo el alumnado.</p>
+<p><strong>Programa ApS — Aprendizaje-Servicio (Gastando Suela):</strong> la publicación del podcast en el blog de aula y la exposición del mural en el centro conecta con el espíritu del Aprendizaje-Servicio recogido en la PGA, en el que el alumnado produce y comparte conocimiento útil para su comunidad. El aprendizaje sobre el 112 tiene un valor real y transferible fuera del aula, que beneficia a las familias y al entorno del colegio.</p>
+<p><strong>Acción Pastoral del Centro:</strong> en coherencia con el ideario del Colegio Amor de Dios y su proyecto educativo basado en el amor, la empatía y el servicio a los demás, esta SdA trabaja el valor de ayudar y cuidar al prójimo como eje transversal. Los profesionales de emergencias son presentados como modelos de servicio y entrega a los otros, en línea con los valores evangélicos que inspiran la pastoral del centro.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775398808766-66cdj8ey1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Plan Integral de Convivencia (PIC) y Plan de Mediación:</strong> la SdA \"¡Llamamos al 112!\" refuerza directamente los objetivos del Plan Integral de Convivencia del centro, al trabajar el valor de la ayuda mutua, el respeto y la seguridad colectiva. El conocimiento de los servicios de emergencias conecta con las actuaciones del Plan de Mediación, ya que el alumnado aprende que hay personas y recursos a los que acudir cuando surgen situaciones de dificultad, en paralelo al trabajo de mediación que se desarrolla en las tutorías a través del programa NINO y NINA.</p>\n<p><strong>Plan de Atención a la Diversidad (PAD) — Programa de Atención a la Diversidad:</strong> el diseño de la SdA desde los principios del Diseño Universal para el Aprendizaje (DUA) —recogidos expresamente en la PGA del centro— garantiza la participación de todo el alumnado, incluido el ACNEE/ACNEAE. Los múltiples agrupamientos, los apoyos visuales, la expresión oral y la producción digital ofrecen diversas vías de acceso y expresión del aprendizaje, en coherencia con las medidas de atención a la diversidad establecidas en el centro.</p>\n<p><strong>Programa de Acción Tutorial (PAT):</strong> esta SdA se vincula con el PAT en el trabajo de las competencias socioemocionales (reconocimiento de emociones ante situaciones de peligro o miedo) y con el fomento de hábitos saludables y de seguridad personal, contemplados entre las actuaciones específicas del PAT para Educación Infantil. El rol de los profesionales de emergencias como figuras de ayuda conecta con los valores de solidaridad y cuidado trabajados en tutoría.</p>\n<p><strong>Plan Digital de Centro — Proyecto Chromebook y Google for Education</strong>: la SdA contribuye directamente al objetivo 5 de la PGA: desarrollar las competencias digitales del alumnado desde las primeras etapas. El uso guiado de herramientas como Genially y GarageBand/Audacity está alineado con el Proyecto Chromebook y con el ecosistema Google for Education implantado en el centro. Se trabaja así el uso responsable, creativo y seguro de la tecnología, en coherencia con el Plan de Digitalización del Centro.</p>\n<p><strong>Programa de Innovación — Matemáticas Activas, Aprendizaje Cooperativo y ABP</strong>: la metodología de la SdA se apoya en tres de los programas de innovación educativa recogidos en la PGA (punto 9): el Aprendizaje Basado en Proyectos, el Aprendizaje Cooperativo con roles heterogéneos y la metodología de Matemáticas Activas aplicada en Educación Infantil, que sitúa al alumnado como protagonista de su aprendizaje a través del juego, la manipulación y la verbalización.</p>\n<p><strong>Programa HabLE — Bilingüismo:</strong> aunque el Programa HabLE se desarrolla principalmente a partir de Educación Primaria, en Educación Infantil se trabaja desde los primeros cursos el contacto con la lengua inglesa. La SdA puede incorporar vocabulario básico en inglés relacionado con las emergencias (nombres de los servicios, palabras clave como help, ambulance, firefighter, police), en coherencia con el enfoque comunicativo y de inmersión temprana del Programa HabLE.</p>\n<p><strong>Plan de Coeducación y vocaciones STEAM:</strong> la SdA contribuye al objetivo 4 de la PGA, que promueve la igualdad de oportunidades y las vocaciones STEAM. Se presentan los profesionales de emergencias de forma igualitaria, mostrando a mujeres y hombres en todos los roles (bomberas, médicas, policías). La elaboración de la infografía interactiva y el podcast fomenta además el interés por la tecnología desde edades tempranas en todo el alumnado.</p>\n<p><strong>Programa ApS — Aprendizaje-Servicio (Gastando Suela):</strong> la publicación del podcast en el blog de aula y la exposición del mural en el centro conecta con el espíritu del Aprendizaje-Servicio recogido en la PGA, en el que el alumnado produce y comparte conocimiento útil para su comunidad. El aprendizaje sobre el 112 tiene un valor real y transferible fuera del aula, que beneficia a las familias y al entorno del colegio.</p>\n<p><strong>Acción Pastoral del Centro:</strong> en coherencia con el ideario del Colegio Amor de Dios y su proyecto educativo basado en el amor, la empatía y el servicio a los demás, esta SdA trabaja el valor de ayudar y cuidar al prójimo como eje transversal. Los profesionales de emergencias son presentados como modelos de servicio y entrega a los otros, en línea con los valores evangélicos que inspiran la pastoral del centro.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mosw8o50-1dmadpccv</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Actividades complementarias y extraescoalres</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividades complementarias y extraescoalres</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividades complementarias y extraescoalres</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosw8o50-1dmadpccv</odePageId>
+      <odeBlockId>block-1775399071845-5v637kcby</odeBlockId>
+      <blockName>Vinculación de la SdA con las actividades complementarias del centr</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosw8o50-1dmadpccv</odePageId>
+          <odeBlockId>block-1775399071845-5v637kcby</odeBlockId>
+          <odeIdeviceId>idevice-1775399071840-xooskdklh</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">La SdA "¡Llamamos al 112!" se enriquece gracias a varias de las actividades complementarias programadas para Educación Infantil en el curso 2025/2026 que se desarrollan a lo largo de todo el curso o en el tercer trimestre:</p>
+<p style="text-align: justify;"><strong>Red de Bibliotecas Públicas Municipales (a lo largo del curso — gratuita): </strong>las visitas a la biblioteca municipal, programadas para el alumnado de 4 y 5 años en el Área de Comunicación y Representación de la Realidad, complementan el trabajo de expresión oral desarrollado en la SdA. Se pueden seleccionar cuentos y álbumes ilustrados sobre bomberos, enfermeras o policías para trabajar antes o después de las sesiones.</p>
+<p style="text-align: justify;"><strong>Títeres (a lo largo del curso):</strong> las representaciones de títeres programadas para toda la etapa de Infantil refuerzan el lenguaje oral y la expresión dramática, competencias clave en la SdA. El role-play de la llamada al 112 y la grabación del podcast se nutren directamente del trabajo expresivo que estas actividades promueven.</p>
+<p style="text-align: justify;"><strong>La lengua de signos como recurso educativo — Fundación Vinjoy (a lo largo del curso — gratuita):</strong> refuerza los principios del DUA aplicados en la SdA al trabajar la comunicación desde un enfoque multimodal e inclusivo. Se puede aprovechar para incorporar algún signo básico relacionado con las emergencias (ayuda, peligro, llamar) en las sesiones del proyecto.</p>
+<p style="text-align: justify;"><strong>Fundación Banco de Alimentos de Asturias — Recogida (a lo largo del curso — gratuita): </strong>la participación en la recogida de alimentos refuerza los valores de solidaridad y cuidado de los demás que vertebran la SdA, conectando con el papel de los profesionales de emergencias como figuras de ayuda a la comunidad.</p>
+<p style="text-align: justify;"><strong>Los Amigos del Oso (a lo largo del curso — gratuita):</strong> actividad dirigida a todo el alumnado de Infantil vinculada al Área de Descubrimiento y Exploración del Entorno. Refuerza la conciencia medioambiental y el cuidado del entorno, valores complementarios a la educación para la seguridad y la prevención trabajada en la SdA.</p>
+<p style="text-align: justify;"><strong>Salidas previstas de los proyectos a realizar (a lo largo del curso): </strong>el centro contempla en su PGA salidas vinculadas a los proyectos de aula en curso. La SdA "¡Llamamos al 112!" podría dar lugar a una salida específica, como la visita a un parque de bomberos o la recepción en el centro de una unidad del 112 Asturias, previa gestión con el equipo directivo.</p>
+<p style="text-align: justify;"><strong>Salida a La Morgal — Lunes de Campo (9 de mayo — gratuita — 3er trimestre): </strong>esta salida al entorno natural puede aprovecharse para trabajar situaciones de seguridad en espacios abiertos y la importancia de actuar con calma y pedir ayuda ante una emergencia en el exterior, reforzando los aprendizajes de la SdA.</p>
+<p style="text-align: justify;"><strong>Día del Padre Usera (27 de abril — gratuita — 3er trimestre):</strong> celebración del ideario del centro basada en los valores de servicio, amor y entrega a los demás. Conecta directamente con el eje central de la SdA: los profesionales de emergencias como modelos de ayuda desinteresada a la comunidad.</p>
+<p style="text-align: justify;"> <br /><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775399071840-xooskdklh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">La SdA \"¡Llamamos al 112!\" se enriquece gracias a varias de las actividades complementarias programadas para Educación Infantil en el curso 2025/2026 que se desarrollan a lo largo de todo el curso o en el tercer trimestre:</p>\n<p style=\"text-align: justify;\"><strong>Red de Bibliotecas Públicas Municipales (a lo largo del curso — gratuita): </strong>las visitas a la biblioteca municipal, programadas para el alumnado de 4 y 5 años en el Área de Comunicación y Representación de la Realidad, complementan el trabajo de expresión oral desarrollado en la SdA. Se pueden seleccionar cuentos y álbumes ilustrados sobre bomberos, enfermeras o policías para trabajar antes o después de las sesiones.</p>\n<p style=\"text-align: justify;\"><strong>Títeres (a lo largo del curso):</strong> las representaciones de títeres programadas para toda la etapa de Infantil refuerzan el lenguaje oral y la expresión dramática, competencias clave en la SdA. El role-play de la llamada al 112 y la grabación del podcast se nutren directamente del trabajo expresivo que estas actividades promueven.</p>\n<p style=\"text-align: justify;\"><strong>La lengua de signos como recurso educativo — Fundación Vinjoy (a lo largo del curso — gratuita):</strong> refuerza los principios del DUA aplicados en la SdA al trabajar la comunicación desde un enfoque multimodal e inclusivo. Se puede aprovechar para incorporar algún signo básico relacionado con las emergencias (ayuda, peligro, llamar) en las sesiones del proyecto.</p>\n<p style=\"text-align: justify;\"><strong>Fundación Banco de Alimentos de Asturias — Recogida (a lo largo del curso — gratuita): </strong>la participación en la recogida de alimentos refuerza los valores de solidaridad y cuidado de los demás que vertebran la SdA, conectando con el papel de los profesionales de emergencias como figuras de ayuda a la comunidad.</p>\n<p style=\"text-align: justify;\"><strong>Los Amigos del Oso (a lo largo del curso — gratuita):</strong> actividad dirigida a todo el alumnado de Infantil vinculada al Área de Descubrimiento y Exploración del Entorno. Refuerza la conciencia medioambiental y el cuidado del entorno, valores complementarios a la educación para la seguridad y la prevención trabajada en la SdA.</p>\n<p style=\"text-align: justify;\"><strong>Salidas previstas de los proyectos a realizar (a lo largo del curso): </strong>el centro contempla en su PGA salidas vinculadas a los proyectos de aula en curso. La SdA \"¡Llamamos al 112!\" podría dar lugar a una salida específica, como la visita a un parque de bomberos o la recepción en el centro de una unidad del 112 Asturias, previa gestión con el equipo directivo.</p>\n<p style=\"text-align: justify;\"><strong>Salida a La Morgal — Lunes de Campo (9 de mayo — gratuita — 3er trimestre): </strong>esta salida al entorno natural puede aprovecharse para trabajar situaciones de seguridad en espacios abiertos y la importancia de actuar con calma y pedir ayuda ante una emergencia en el exterior, reforzando los aprendizajes de la SdA.</p>\n<p style=\"text-align: justify;\"><strong>Día del Padre Usera (27 de abril — gratuita — 3er trimestre):</strong> celebración del ideario del centro basada en los valores de servicio, amor y entrega a los demás. Conecta directamente con el eje central de la SdA: los profesionales de emergencias como modelos de ayuda desinteresada a la comunidad.</p>\n<p style=\"text-align: justify;\"> <br /><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mosw8o51-oscyimgho</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Atribución y descarga</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Atribución y descarga</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Atribución y descarga</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosw8o51-oscyimgho</odePageId>
+      <odeBlockId>block-1775399291332-2bw724z95</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosw8o51-oscyimgho</odePageId>
+          <odeBlockId>block-1775399291332-2bw724z95</odeBlockId>
+          <odeIdeviceId>idevice-1775399291328-xklv4a7c8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Autoría</strong>: esta guía docente ha sido elaborada por Silvia Whelan Meana, tutora del aula de 4 años del Colegio Amor de Dios, Oviedo, en el marco del curso de formación en Competencia Digital Docente – Nivel B2.</p>
+<p><strong>Licencia</strong>: este recurso educativo abierto se publica bajo licencia:</p>
+<p>Creative Commons – Reconocimiento – Compartir Igual 4.0 Internacional (CC BY-SA 4.0)</p>
+<p>Eres libre de compartir y adaptar este material siempre que reconozcas la autoría y distribuyas las obras derivadas bajo la misma licencia. <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.es" title="">Más información sobre la licencia CC BY-SA 4.0. </a></p>
+<p><strong>Descarga del fichero fuente: </strong>Puedes descargar el fichero fuente de esta situación de aprendizaje en formato .elp (eXeLearning) para editarlo y adaptarlo a tu contexto.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775399291328-xklv4a7c8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Autoría</strong>: esta guía docente ha sido elaborada por Silvia Whelan Meana, tutora del aula de 4 años del Colegio Amor de Dios, Oviedo, en el marco del curso de formación en Competencia Digital Docente – Nivel B2.</p>\n<p><strong>Licencia</strong>: este recurso educativo abierto se publica bajo licencia:</p>\n<p>Creative Commons – Reconocimiento – Compartir Igual 4.0 Internacional (CC BY-SA 4.0)</p>\n<p>Eres libre de compartir y adaptar este material siempre que reconozcas la autoría y distribuyas las obras derivadas bajo la misma licencia. <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.es\" title=\"\">Más información sobre la licencia CC BY-SA 4.0. </a></p>\n<p><strong>Descarga del fichero fuente: </strong>Puedes descargar el fichero fuente de esta situación de aprendizaje en formato .elp (eXeLearning) para editarlo y adaptarlo a tu contexto.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mosw8o51-oscyimgho</odePageId>
+      <odeBlockId>block-1775399700295-hw3ugdqg3</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosw8o51-oscyimgho</odePageId>
+          <odeBlockId>block-1775399700295-hw3ugdqg3</odeBlockId>
+          <odeIdeviceId>idevice-1775399700288-7lc60lqzz</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">¡Llamamos al 112! – Descripción de la SdA</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked">Guía docente de la Situación de Aprendizaje dirigida al alumnado de 4 años del Colegio Amor de Dios, Oviedo. Incluye intención educativa, elementos curriculares, metodologías activas y vinculación con los programas del centro.</td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">-</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p>Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
